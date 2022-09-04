@@ -1,4 +1,5 @@
-resource_manifest_version '77731fab-63ca-442c-a67b-abc70f28dfa5'
+fx_version 'cerulean'
+game 'gta5' 
  
 files {
     'carcols.meta',
@@ -8,8 +9,6 @@ files {
     'setup2.xml',
     'global.gxt2',
 }
-
-
 
 data_file 'CARCOLS_FILE' 'carcols.meta'
 data_file 'TEXTFILE_METAFILE' 'dlctext.meta'
