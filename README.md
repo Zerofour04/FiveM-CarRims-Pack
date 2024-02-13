@@ -1,7 +1,15 @@
-# 🧰FiveM CarRims/JDMRims Pack ( 63 rims )
+<h1 align="center">🛞CarRims/JDMRims Pack ( 63 rims )</h1>
+<p align="center">
+    <img alt="" src="https://img.shields.io/github/stars/Zerofour04/FiveM-CarRims-Pack.svg?style=for-the-badge">
+    <img alt="" src="https://madewithlove.now.sh/de?heart=true&colorB=%23ec2237&template=for-the-badge">
+    <img alt="" src="https://img.shields.io/github/followers/Zerofour04.svg?style=for-the-badge&label=Follow&maxAge=2592000">
+</p>
 
-## ⭐CREDITS / ❗Copyright
-**Hey, the content was NOT created by me, I don't know which people I downloaded this pack from. I used this content a year ago and want to release this pack because I don't play FiveM anymore and want to help some people, also I constantly improve the content of the packs. If you are also one of the creators, just create a pull request/issues!**
+## ℹ️Information
+- Hey everyone! Two years ago, a friend and I created this rim pack and decided to share it with the community.
+- We put a lot of effort into providing a diverse selection of rims to give your vehicles the perfect look.
+- I'd also like to mention that the content of this pack is mainly sourced from 5MODS, as there hasn't been a comparable package available until now. A big thank you to the original creators for their fantastic work! Feel free to contact me if there are specific contents you'd like to have removed!
+- If you enjoy it, please consider giving it a ⭐️ star!
 
 ## 🖼️ Picutes::
 <details>
@@ -135,21 +143,10 @@
 
 </details>
 
-### ⚙️Server.cfg
+## 📋Download & 🛠️Installation
 ```
-start Fivem-CarRims
+start Fivem-CarRims-Pack
 ```
 
 ## ⚠️License
-**If you are a creator and don't want this content to be here on GitHub, just create an issue or pull request!**
-
-**✅You're allowed:**
-- to modify the pack
-- to share the pack
-- for private use
-
-**❌You're NOT ALLOWED:**
-- to upload the resource somewhere else
-- for commercial use
-
-!!!RESPECT THE WORK OF THE CREATORS AND DON'T UPLOAD IT ANYWHERE ELSE!!!
+[LICENSE](LICENSE)
